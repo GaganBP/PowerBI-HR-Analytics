@@ -13,5 +13,5 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 ## View the Dashboard
 You can view the Power BI dashboard online by clicking the link below:
 
-[View HR Analytics Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjhlOWM1OGYtMjNjYS00MDZmLWIyYTItNDI5OGEwYmUwOGI0IiwidCI6IjE1MTg4MzNmLTBiZmYtNDJiNS1hZDdlLWQ2NGVhM2VjNjMwNiJ9)
+[View HR Analytics Dashboard](https://app.fabric.microsoft.com/view?r=eyJrIjoiNzViZTNjZTYtYTU4MS00NjViLTg2ODktZjAxNWZhODMyYzRiIiwidCI6IjY3OWY5YTYyLTIwODQtNGI0Yy1iNzk2LWI1NGFkZTM5ZmUxYiJ9)
 
